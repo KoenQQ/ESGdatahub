@@ -1,0 +1,7 @@
+
+
+1. load all csv's in jupyter notebook dataframes 
+2. push dataframes to local postgres server -> SQLalchemy
+3. push those tables to Heroku postgres that is running
+4. connect streamlit to Heroku database 
+5. 
