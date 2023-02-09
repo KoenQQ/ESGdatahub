@@ -4,4 +4,8 @@
 2. push dataframes to local postgres server -> SQLalchemy
 3. push those tables to Heroku postgres that is running
 4. connect streamlit to Heroku database 
-5. 
+5. pull old database offline: https://devcenter.heroku.com/articles/heroku-postgres-import-export & ready for restoration
+if need be
+6. install venv on accenture machine. how do i make sure its the same?  
+7. start exploring the data. probably divide it up into multiple tabs. 
+7. where to publish it? initially directly via streamlit, later via personal website
